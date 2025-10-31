@@ -1,0 +1,35 @@
+category,part_number,description
+Metal Lathes,ML-001,10 x 24 lathe
+Metal Lathes,ML-002,12 x 36 lathe
+Metal Lathes,ML-003,14 x 40 lathe
+Metal Lathes,ML-004,16 x 60 lathe
+Metal Lathes,ML-005,18 x 80 lathe
+Horizontal Mills,HM-001,Small horizontal mill
+Horizontal Mills,HM-002,Medium horizontal mill
+Horizontal Mills,HM-003,Large horizontal mill
+Vertical Mills,VM-001,Small vertical mill
+Vertical Mills,VM-002,Medium vertical mill
+Vertical Mills,VM-003,Large vertical mill
+Vertical Mills,VM-004,Extra large vertical mill
+Waterjet Cutters,WJ-001,Small waterjet cutter
+Waterjet Cutters,WJ-002,Medium waterjet cutter
+Waterjet Cutters,WJ-003,Large waterjet cutter
+Cutting Lasers,CL-001,Small cutting laser
+Cutting Lasers,CL-002,Medium cutting laser
+Cutting Lasers,CL-003,Large cutting laser
+End Mills,EM-001,"1/8"" end mill"
+End Mills,EM-002,"1/4"" end mill"
+End Mills,EM-003,"3/8"" end mill"
+End Mills,EM-004,"1/2"" end mill"
+Drill Bits,DB-001,"1/8"" drill bit"
+Drill Bits,DB-002,"1/4"" drill bit"
+Drill Bits,DB-003,"3/8"" drill bit"
+Drill Bits,DB-004,"1/2"" drill bit"
+Cutting Tools,CT-001,Cutting tool for lathe
+Cutting Tools,CT-002,Cutting tool for mill
+Clamps,CLP-001,Small clamp
+Clamps,CLP-002,Medium clamp
+Clamps,CLP-003,Large clamp
+Digital Readouts,DRO-001,1-axis DRO
+Digital Readouts,DRO-002,2-axis DRO
+Digital Readouts,DRO-003,3-axis DRO
